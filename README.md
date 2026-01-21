@@ -1,21 +1,23 @@
-# 👋 Selam, ben Muhammed Bilal
+# Muhammed Bilal
 
-🚀 Web Developer | Freelance  
-💻 HTML • CSS • JavaScript • PHP • WordPress  
-🎨 UI/UX & Web Tasarım  
+Web Geliştirici • Yazılım Meraklısı  
+Modern web teknolojileri ve temiz kod yapıları üzerine çalışıyorum.
+
+🌐 Web Sitesi: https://bilalkucukkara.com.tr  
 📍 Türkiye
 
 ---
 
-## 🧠 Hakkımda
-- Web tabanlı projeler geliştiriyorum  
-- Modern, hızlı ve responsive arayüzler yapıyorum  
-- Freelance işler ve kişisel projelerle kendimi geliştiriyorum  
-- Şu an aktif olarak yeni projeler üretiyorum
+## Hakkımda
+Web tabanlı uygulamalar geliştiriyorum.  
+Performans, okunabilirlik ve sürdürülebilir kod yapıları benim için önceliklidir.
+
+Projelerim, detaylı açıklamalarım ve çalışmalarımın tamamı kişisel web sitemde yer almaktadır.  
+GitHub profilimi daha çok teknik projeler, denemeler ve kaynak kod paylaşımları için kullanıyorum.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## Kullandığım Teknolojiler
 - HTML5  
 - CSS3 / Bootstrap 5  
 - JavaScript  
@@ -25,19 +27,23 @@
 
 ---
 
-## 📌 Öne Çıkan Projeler
-- 🔗 **QR Kod Oluşturucu & Admin Paneli**
-- 🔗 **Blog Sitesi (ASP.NET Core MVC)**
-- 🔗 **3D Portföy Web Sitesi**
-- 🔗 **Öğrenci Devamsızlık Takip Uygulaması**
-
+## Projeler
+📌 Seçili projeler ve detaylı incelemeler web sitemde bulunmaktadır.  
+Bu GitHub hesabında; projelerin kaynak kodları, deneysel çalışmalar ve yardımcı repolar yer alır.
 
 ---
 
-## 📫 İletişim
-- 🌐 Portfolio: **bilalkucukkara.com.tr**    
-- 📷 Instagram: **@bilalkckkr**
+## Sertifikalar
+Eğitimlerim ve sertifikalarım kişisel web sitemde listelenmektedir.  
+Bazı repolar, sertifika kapsamında geliştirilmiş örnek projeler içerebilir.
 
 ---
 
-⭐ Profilimi beğendiysen repo’lara star atmayı unutma
+## GitHub İstatistikleri
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=78Bilal&show_icons=true&theme=dark)
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=78Bilal&layout=compact&theme=dark)
+
+---
+
+> Çalışmalarımın tamamı ve güncel bilgiler için web sitemi ziyaret edebilirsiniz.
